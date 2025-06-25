@@ -2,7 +2,7 @@
 
 This project is a Streamlit-based dashboard that performs customer segmentation and predicts Customer Lifetime Value (CLTV) based on marketing campaign data. It provides actionable insights into customer behavior, purchasing patterns, and value segmentation.
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
@@ -38,4 +38,5 @@ churn-project/
 ├── final_segmentation.py # Merging segments & predictions
 ├── .gitignore
 └── README.md
+
 
