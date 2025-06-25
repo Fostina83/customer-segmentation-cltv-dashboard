@@ -56,3 +56,4 @@ plt.show()
 # Optional pairplot
 sns.pairplot(df[['Recency', 'Frequency', 'Total_Spend', 'Segment_Label']], hue='Segment_Label')
 plt.show()
+
